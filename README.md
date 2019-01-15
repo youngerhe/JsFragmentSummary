@@ -1,3 +1,2 @@
 # JsFragmentSummary
-Js Code Notes
-大家好，今天是创建笔记的第一天。
+用来记录我平时总结下来的代码
