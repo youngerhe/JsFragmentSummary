@@ -10,6 +10,7 @@ git add [project] project是项目名，不填写表示所有
 git status [type] type=-s简短输出，不填写表示详细内容
 ### Git添加到本地仓库
 git commit [type]   type=m 输入内容   type=a 跳过add这步
-
+### 当nginx启动时报pid问题   
+使用nginx -c nginx.conf
 
 
